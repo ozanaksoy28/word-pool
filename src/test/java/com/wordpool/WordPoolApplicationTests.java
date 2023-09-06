@@ -1,0 +1,13 @@
+package com.wordpool;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WordPoolApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
